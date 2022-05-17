@@ -18,8 +18,8 @@ The user should clone the repository from GitHub. This application requires Node
 ## Usage 
 This application will allow users to view, add, edit, and delete categories, products, and tags.
 
-View video to see MySQL walk through via [Screencastify](https://drive.google.com/file/d/1A_wU4NV1fNKCYOAzX1SZlOPy0LApyxj5/view?usp=sharing)<br>
-View video to walk through of the API routes. [Screencastify](https://drive.google.com/file/d/1JsErC0DlNuK6IYLDle6XZvjjQKfxUXbM/view?usp=sharing)<br>
+View video to see MySQL walk through via [Vedio](https://drive.google.com/file/d/1A_wU4NV1fNKCYOAzX1SZlOPy0LApyxj5/view?usp=sharing)<br>
+View video to walk through of the API routes. [vedio](https://drive.google.com/file/d/1JsErC0DlNuK6IYLDle6XZvjjQKfxUXbM/view?usp=sharing)<br>
 
 
 ## License 
